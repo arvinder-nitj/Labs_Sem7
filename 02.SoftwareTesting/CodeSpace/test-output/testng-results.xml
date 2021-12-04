@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-30T11:45:37 IST" name="Default suite" finished-at="2021-11-30T11:45:37 IST" duration-ms="224">
+    <groups>
+    </groups>
+    <test started-at="2021-11-30T11:45:37 IST" name="Default test" finished-at="2021-11-30T11:45:37 IST" duration-ms="224">
+      <class name="update10StudentsRecordsExcel">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:update10StudentsRecordsExcel@78b66d36]" started-at="2021-11-30T11:45:37 IST" name="setUp" finished-at="2021-11-30T11:45:37 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testImportexport1()[pri:0, instance:update10StudentsRecordsExcel@78b66d36]" started-at="2021-11-30T11:45:37 IST" name="testImportexport1" finished-at="2021-11-30T11:45:37 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImportexport1 -->
+      </class> <!-- update10StudentsRecordsExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
