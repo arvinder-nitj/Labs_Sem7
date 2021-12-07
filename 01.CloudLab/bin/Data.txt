@@ -1,0 +1,41 @@
+Value Set 1
+25
+1311
+Value Set 2
+50
+1683
+Value Set 3
+100
+2774
+Value Set 4
+500
+14218
+Value Set 5
+800
+28095
+Value Set 6
+1000
+32561
+
+
+
+Item 2
+DE
+Value Set 1
+25
+1073
+Value Set 2
+50
+1551
+Value Set 3
+100
+2839
+Value Set 4
+500
+12709
+Value Set 5
+800
+25754
+Value Set 6
+1000
+29799
